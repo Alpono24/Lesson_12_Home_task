@@ -66,7 +66,7 @@ class Bus:
             else:
                 pass
         else:
-            print('Вы ввели не корректные данные.')
+            print('Вы ввели некорректные данные.')
 
 
     def speed_up(self, add_speed):

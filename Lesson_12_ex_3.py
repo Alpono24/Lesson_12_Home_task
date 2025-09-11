@@ -1,5 +1,3 @@
-from pdb import post_mortem
-
 print("Lesson 12. Home task №3.")
 """
 3. Класс «Автобус».

@@ -1,3 +1,5 @@
+
+
 print("Lesson 12. Home task №3.")
 """
 3. Класс «Автобус».
@@ -66,7 +68,7 @@ class Bus:
             else:
                 pass
         else:
-            print('Вы ввели некорректные данные.')
+            print('Вы ввели не корректные данные.')
 
 
     def speed_up(self, add_speed):
